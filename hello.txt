@@ -2,3 +2,4 @@ hello world
 the second line in hello.txt
 this is from the feature branch
 four addition to hello.txt
+running a git diff to hello.txt
